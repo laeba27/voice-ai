@@ -1,0 +1,19 @@
+{
+  "name": "voice-ai-interface",
+  "version": "1.0.0",
+  "description": "Futuristic Voice AI Interface",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [
+    "voice",
+    "ai",
+    "interface"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
